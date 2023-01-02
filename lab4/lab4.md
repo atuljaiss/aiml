@@ -160,22 +160,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
 
-    outlook  =>  {'sunny': (3, 2), 'overcast': (0, 4), 'rainy': (2, 3)}
-    overcast  =>  yes
-    temp  =>  {'mild': (1, 2), 'cool': (1, 1)}
-    hot  =>  no
-    cool  =>  yes
-    humidity  =>  {'normal': (1, 1)}
-    high  =>  no
-    normal  =>  yes
-    windy  =>  {'Weak': (0, 1), 'Strong': (1, 0)}
-    Weak  =>  yes
-    Strong  =>  no
-    
-
-
-```python
-
-```
